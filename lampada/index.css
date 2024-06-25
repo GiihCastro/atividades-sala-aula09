@@ -1,0 +1,6 @@
+#lampada {
+  margin: auto;
+    width: 500px;
+    height: auto;
+    transition: transform 0.2s ease-in-out;
+}
